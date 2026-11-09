@@ -1,10 +1,6 @@
 # EECS E6895: Advanced Big Data and AI Midterm Project
 
-**Nutritionist 1 Group:**
-
-- Anjali Bhimanadham — apb2192  
-- Mahsa Mohajeri — mm6859  
-- Daniyah Taimur — drt2145
+Team project (Columbia University) by **Anjali Bhimanadham**, **Mahsa Mohajeri**, and **Daniyah Taimur**.
 
 ## Project Description
 We developed a Nutrition AI system that  generates personalized meal plans, recipes, and grocery lists based on one’s:
@@ -14,6 +10,11 @@ We developed a Nutrition AI system that  generates personalized meal plans, reci
 - Budget
 - Cooking time
 
+
+## Team and contributions
+- **Mahsa Mohajeri:** meal-type classifier, ingredient cleanup and the LLM prompt behind it, LLM-generated grocery instructions, and early UI work.
+- **Daniyah Taimur:** recipe ingestion and storage, login and user profiles, recipe feedback, and grocery list refinements.
+- **Anjali Bhimanadham:** initial codebase, environment setup and cleanup, and the README.
 
 ## Setup
 1. Create a Groq API key: https://console.groq.com/keys
